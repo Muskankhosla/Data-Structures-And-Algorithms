@@ -9,6 +9,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 */
+#include<stdio.h>
+#include<stdlib.h>
 
 struct node
 {
@@ -48,8 +50,7 @@ int main()
      addFirst(&head,10);
      addFirst(&head,20);
      addFirst(&head,30);
-     addFirst(&head,50);
-
+     addFirst(&head,90);
      printList(head);
 
      return 0;
