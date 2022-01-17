@@ -1,4 +1,65 @@
+ALGORITHM :::
+-------------------------------------------------------------------------------------------------------
+1. Create a temporary node(temp) and assign the head node's address.
 
+2. Print the data which present in the temp node.
+
+3. After printing the data, move the temp pointer to the next node.
+
+4. Do the above process until we reach the end.
+---------------------------------------------------------------------------------------------------------
+METHOD: 1 
+without print function
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+  //node structure
+  struct node
+  {
+      int data;
+      struct node *next;
+  };
+
+  //declaring nodes
+  struct node *head,*middle,*last;
+
+  //allocating memory for each node
+  head   = malloc(sizeof(struct node));
+  middle = malloc(sizeof(struct node));
+  last   = malloc(sizeof(struct node));
+
+  //assigning values to each node
+  head->data   = 10;
+  middle->data = 20;
+  last->data   = 30;
+
+  //connecting each nodes. head->middle->last
+  head->next   = middle;
+  middle->next = last;
+  last->next   = NULL;
+
+  //temp is a reference for head pointer.
+  struct node *temp = head;
+
+  //till the node becomes null, printing each nodes data
+  while(temp != NULL)
+  {
+      printf("%d->",temp->data);
+      temp = temp->next;
+  }
+  printf("NULL");
+
+  return 0;
+}
+
+-------------------------------------------------------------------------------------------------------
+    
+    
+    
+ METHOD 2:USING PRINTLINKEDLIST FUNCTION
+ 
 #include <stdio.h>
 #include<stdlib.h>
 //creating a node with self refrential structure(struct with pointer pointing to itself(here *next)
