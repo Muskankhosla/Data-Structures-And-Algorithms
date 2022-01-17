@@ -55,3 +55,8 @@ int main()
 
      return 0;
 }
+
+
+
+OUTPUT:
+90->30->20->10->NULL
