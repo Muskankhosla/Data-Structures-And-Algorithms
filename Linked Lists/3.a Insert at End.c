@@ -1,3 +1,12 @@
+Algorithm
+1. Declare head pointer and make it as NULL.
+2. Create a new node with the given data. And make the new node => next as NULL.
+    (Because the new node is going to be the last node.)
+3. If the head node is NULL (Empty Linked List),
+ make the new node as the head.
+4. If the head node is not null, (Linked list already has some elements),
+find the last node.make the last node => next as the new node.
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node
