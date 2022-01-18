@@ -6,8 +6,7 @@
 3. Make the new node points to the head node.
 
 4. Finally, make the new node as the head node.
-#include<stdio.h>
-#include<stdlib.h>
+
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -19,26 +18,26 @@ struct node
 };
   
 
-void addFirst(struct node **head, int val)
+void addFirst(struct node **p, int val)
 {
       //create a new node
       struct node *newNode = malloc(sizeof(struct node));
       newNode->data = val;
 
-      newNode->next = *head;
+      newNode->next = *p;
 
-      *head = newNode;
+      *p = newNode;
 }
 
-void printList(struct node *head)
+void printList(struct node *p)
 {
-    struct node *temp = head;
+
 
     //iterate the entire linked list and print the data
-    while(temp != NULL)
+    while(p != NULL)
     {
-         printf("%d->", temp->data);
-         temp = temp->next;
+         printf("%d->", p->data);
+         p = p->next;
     }
     printf("NULL\n");
 }
@@ -55,8 +54,3 @@ int main()
 
      return 0;
 }
-
-
-
-OUTPUT:
-90->30->20->10->NULL
