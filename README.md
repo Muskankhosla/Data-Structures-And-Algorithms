@@ -1,10 +1,10 @@
 # Data-Structures-And-Algorithms
 # Day1: (Arrays) - Questions
 
-Find the duplicate in an array of N integers.
-Sort Color or Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
-Missing Number
-Find the Duplicate Number
+Find the duplicate in an array of N integers.<br>
+Sort Color or Sort an array of 0’s 1’s 2’s without using extra space or sorting algo<br>
+Missing Number<br>
+Find the Duplicate Number<br>
 Merge two sorted Arrays without extra space
 Maximum Subarray - Kadane’s Algorithm
 Merge Overlapping Subintervals
