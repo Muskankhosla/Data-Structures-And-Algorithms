@@ -5,117 +5,117 @@ Find the duplicate in an array of N integers.<br>
 Sort Color or Sort an array of 0’s 1’s 2’s without using extra space or sorting algo<br>
 Missing Number<br>
 Find the Duplicate Number<br>
-Merge two sorted Arrays without extra space
-Maximum Subarray - Kadane’s Algorithm
+Merge two sorted Arrays without extra space<br>
+Maximum Subarray - Kadane’s Algorithm<br>
 Merge Overlapping Subintervals
 
 
 # Day2: (Arrays) - Questions
 
-Set Matrix Zeros
-Pascal Triangle
-Next Permutation
-Rotate Array
-Stock Buy and Sell
+Set Matrix Zeros<br>
+Pascal Triangle<br>
+Next Permutation<br>
+Rotate Array<br>
+Stock Buy and Sell<br>
 Spiral Matrix
 
 
 # Day3: (Math) - Questions
 
-Excel Column Number
-Count trailing zeros in factorial of a number
-Grid Unique Paths
+Excel Column Number<br>
+Count trailing zeros in factorial of a number<br>
+Grid Unique Paths<br>
 
 
 # Day4: (Hashing) - Questions
 
-2 Sum problem
-4 Sum problem
-Longest Consecutive Sequence
-Longest Subarray with K sum
-Count number of subarrays with given XOR(this clears a lot of problems)
-Longest substring without repeating characters
+2 Sum problem<br>
+4 Sum problem<br>
+Longest Consecutive Sequence<br>
+Longest Subarray with K sum<br>
+Count number of subarrays with given XOR(this clears a lot of problems)<br>
+Longest substring without repeating characters<br>
 
 
 # Day5: (LinkedList) - Questions
 
-Reverse a LinkedList
-Find middle of LinkedList
-Merge two sorted Linked List
-Remove Nth node from back of LinkedList
-Delete a given Node when a node is given. (0(1) solution)
-Add two numbers as LinkedList
+Reverse a LinkedList<br>
+Find middle of LinkedList<br>
+Merge two sorted Linked List<br>
+Remove Nth node from back of LinkedList<br>
+Delete a given Node when a node is given. (0(1) solution)<br>
+Add two numbers as LinkedList<br>
 
 
 # Day6: (LinkedList) - Questions
 
-Find intersection point of Y LinkedList
-Check if a LinkedList is palindrome or not.
-Reverse a LinkedList in groups.
-Detect a cycle and removing loop(two different questions and same concept)
-Flattening of a LinkedList
-Rotate a LinkedList
-Clone a Linked List with random and next pointer.
+Find intersection point of Y LinkedList<br>
+Check if a LinkedList is palindrome or not.<br>
+Reverse a LinkedList in groups.<br>
+Detect a cycle and removing loop(two different questions and same concept)<br>
+Flattening of a LinkedList<br>
+Rotate a LinkedList<br>
+Clone a Linked List with random and next pointer.<br>
 
 
 # Day7: (2pointer) - Questions
 
-Trapping rainwater
-Remove Duplicate from Sorted array
+Trapping rainwater<br>
+Remove Duplicate from Sorted array<br>
 Max continuous number of 1’s
 
 
 # Day8: (Greedy) - Questions
 
-Greedy algorithm to find minimum number of coins
-Fractional Knapsack Problem - Partition Equal Subset Sum - https://leetcode.com/discuss/interview-question/1066692/fractional-knapsack
+Greedy algorithm to find minimum number of coins<br>
+Fractional Knapsack Problem - Partition Equal Subset Sum <br>
 Maximum Profit in Job Scheduling
 
 
 # Day9: (Backtracking) - Questions
 
-N queens Problem
-Sudoko
-Print all Permutations of a string/array
-Word Break (print all ways)
+N queens Problem<br>
+Sudoko<br>
+Print all Permutations of a string/array<br>
+Word Break (print all ways)<br>
 
 
 # Day10: - Questions
 
-Combination sum1
-Combination sum2
+Combination sum1<br>
+Combination sum2<br>
 Median of Two Sorted Arrays
 
 # Day11: (Divide and Conquer) - Questions
 
-Find the element that appears once in sorted array, and rest element appears twice (Binary search)
-Search element in a sorted and rotated array.
+Find the element that appears once in sorted array, and rest element appears twice (Binary search)<br>
+Search element in a sorted and rotated array.<br>
 Find Median from data stream
 
 # Day12: (Bits) - Questions
 
-Check if a number if a power of 2 or not in O(1)
-Count total set bits
-Divide Integers without / operator
-Power Set (this is very important)
-Find MSB in o(1)
+Check if a number if a power of 2 or not in O(1)<br>
+Count total set bits<br>
+Divide Integers without / operator<br>
+Power Set (this is very important)<br>
+Find MSB in o(1)<br>
 Find square of a number without using multiplication or division operators.
 
 # Day13: (Stack and Queue) - Questions
 
-Implement Stack using Queue
-Implement Queue using Stack
-Check for balanced parentheses
+Implement Stack using Queue<br>
+Implement Queue using Stack<br>
+Check for balanced parentheses<br>
 Next Greater Element
 
 # Day14: - Questions
 
-Next Smaller Element
-LRU cache (vvvv. imp)
-Largest rectangle in histogram
-Sliding Window maximum
-Implement Min Stack
-Rotten Orange (Using BFS)
+Next Smaller Element<br>
+LRU cache (vvvv. imp)<br>
+Largest rectangle in histogram<br>
+Sliding Window maximum<br>
+Implement Min Stack<br>
+Rotten Orange (Using BFS)<br>
 
 # Day15: (String) - Questions
 
